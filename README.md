@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm currently a 21 year old IT professional with a passion for development trying to use my motivation to learn to build a better future for myself. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to content creation, to now creating custom web applications, I have always had ideas and sought out ways to make them a reality. Now I try and channel my creativity into my code to create beautiful layouts and I am learning more everyday.
+I'm currently a 22 year old IT professional with a passion for development trying to use my motivation to learn to build a better future for myself. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to content creation, to now creating custom web applications, I have always had ideas and sought out ways to make them a reality. Now I try and channel my creativity into my code to create beautiful layouts and I am learning more everyday.
 
 #
 
