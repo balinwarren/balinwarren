@@ -1,8 +1,8 @@
-# 🏂 Balin Warren
+# 🦥 Balin Warren
 
-**`Web Developer`**
+**`Software Engineer`**
 
-I'm currently a 22 year old IT professional with a passion for development trying to use my motivation to learn to build a better future for myself. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to content creation, to now creating custom web applications, I have always had ideas and sought out ways to make them a reality. Now I try and channel my creativity into my code to create beautiful layouts and I am learning more everyday.
+I'm currently a 22 year old computer science major and IT professional with a passion for development trying to use my motivation to learn to build a better future for myself. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to content creation, to now creating custom software. As I pursue my bachelor's I aspire to break into tech as a software engineer.
 
 #
 
@@ -14,11 +14,6 @@ I'm currently a 22 year old IT professional with a passion for development tryin
 <img align="left" alt="git" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
 <br>
-
-<details>
-  <summary><h3>🗺️ My Coding Journey</h3></summary>
-    My story while still uncomplete I feel is a pretty unconventional one. It started at university where I thought maybe software wasn't for me so I transitioned to hardware as an IT major. This didn't work either and came apparent to me that the problem wasn't what I was majoring in but college itself. So, I left. I went venture a path looked down upon by a lot of my family but I knew was right for me. Now, I work a day job as an IT support agent. At night I'm taking an IT security technical course in order to get important entry level IT certs like CompTIA A+, Net+, and Sec+. And every moment in between I spend teaching myself to code with The Odin Project and I learn more and more everyday with that hope that soon enough I will have greated a better future for myself in a career as a developer.
-</details>
 
 #
 
