@@ -2,14 +2,20 @@
 
 **`Software Engineer`**
 
-I'm currently a 22 year old computer science major and IT professional with a passion for development trying to use my motivation to learn to build a better future for myself. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to content creation, to now creating custom software. As I pursue my bachelor's I aspire to break into tech as a software engineer.
+I'm currently a 23 year old Computer Science major at Western Governors University currently working in AI compute data centers and taking every opportunity to use code to solve my everyday problems. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to tech content creation, to now creating custom software. As I pursue my bachelor's I aspire to use my skills to start my career in software engineering.
 
 #
 
 ### 🔧 Languages and Tools
+<img align="left" alt="java" width="33px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="spring" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="go" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="html" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="js" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="react" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
@@ -18,8 +24,8 @@ I'm currently a 22 year old computer science major and IT professional with a pa
 #
 
 ### 🚀 Best Repos
-<a href="https://github.com/balinwarren/LeveledUP-Landing-Page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=LeveledUP-Landing-Page&theme=tokyonight" />
+<a href="https://github.com/balinwarren/FormulaAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=FormulaAPI&theme=tokyonight" />
 </a>
 <a href="https://github.com/balinwarren/Etch-a-Sketch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=Etch-a-sketch&theme=tokyonight" />
@@ -28,7 +34,7 @@ I'm currently a 22 year old computer science major and IT professional with a pa
 <br>
 
 ### 📈 Stats
-![Balin's Github Stats](https://github-readme-stats.vercel.app/api?username=balinwarren&show_icons=true&theme=tokyonight)
+<!--![Balin's Github Stats](https://github-readme-stats.vercel.app/api?username=balinwarren&show_icons=true&theme=tokyonight)-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=balinwarren&theme=tokyonight&border_radius=4.5)
 
 #
