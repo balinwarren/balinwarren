@@ -27,8 +27,8 @@ I'm currently a 23 year old Computer Science major at Western Governors Universi
 <a href="https://github.com/balinwarren/FormulaAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=FormulaAPI&theme=tokyonight" />
 </a>
-<a href="https://github.com/balinwarren/Etch-a-Sketch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=Etch-a-sketch&theme=tokyonight" />
+<a href="https://github.com/balinwarren/blackjack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balinwarren&repo=blackjack&theme=tokyonight" />
 </a>
 <br>
 <br>
