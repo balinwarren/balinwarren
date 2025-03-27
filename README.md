@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm currently a 23 year old Computer Science major at Western Governors University currently working as a Site Reliability Engineer at PNC. Over the years my passions have taken many forms but they always centered around technology. From building custom computers, to tech content creation, to now creating custom software. As I pursue my bachelor's I aspire to use my skills to start my career in software engineering.
+I'm currently a 23 year old Computer Science major at Western Governors University currently working as a Data Center Technician at Google. Over the years my passions have taken many forms but they always centered around technology. From building custom computers to now creating custom software. As I pursue my bachelor's I aspire to use my skills to start my career in software engineering.
 
 #
 
